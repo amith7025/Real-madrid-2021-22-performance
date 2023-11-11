@@ -1,7 +1,7 @@
 # Real Madrid Champions League Performance - 2021-2022
 
 ## Overview
-This PowerBI presentation provides insights into the performance of Real Madrid players during the 2021-2022 UEFA Champions League season. It utilizes data visualizations to showcase key metrics, player statistics, and team performance throughout the tournament.
+This PowerBI report provides insights into the performance of Real Madrid players during the 2021-2022 UEFA Champions League season. It utilizes data visualizations to showcase key metrics, player statistics, and team performance throughout the tournament.
 
 ## Features
 - Comparative analysis of key metrics for each player.
